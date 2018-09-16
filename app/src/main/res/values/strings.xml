@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VersioningProject</string>
+    <string name="buttonText">CLICK ME!</string>
 </resources>
